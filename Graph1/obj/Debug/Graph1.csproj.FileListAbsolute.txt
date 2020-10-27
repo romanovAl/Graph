@@ -1,0 +1,5 @@
+C:\Users\mlnas\RiderProjects\Graph1\Graph1\bin\Debug\Graph1.exe
+C:\Users\mlnas\RiderProjects\Graph1\Graph1\bin\Debug\Graph1.pdb
+C:\Users\mlnas\RiderProjects\Graph1\Graph1\obj\Debug\Graph1.csprojAssemblyReference.cache
+C:\Users\mlnas\RiderProjects\Graph1\Graph1\obj\Debug\Graph1.exe
+C:\Users\mlnas\RiderProjects\Graph1\Graph1\obj\Debug\Graph1.pdb
